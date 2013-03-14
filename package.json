@@ -1,0 +1,19 @@
+{
+  "name": "BackboneTransitions",
+  "description": "Backbone Transitions",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "3.x",
+    "hbs":"1.x",
+    "grunt-requirejs": "0.3.1"
+  },
+  "engines": {
+    "node": "0.8.x",
+    "npm": "1.1.65"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.0",
+    "grunt-contrib-requirejs": "~0.4.0"
+  }
+}
